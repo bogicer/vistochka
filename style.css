@@ -1,0 +1,11 @@
+header h1 {
+    text-align: center;
+    font-style: oblique;
+}
+
+header h2 {
+    text-align: right;
+    font-style: oblique;
+    font-size: 30px;
+}
+
